@@ -4,14 +4,14 @@ Nesta atividade, vamos montar um programa para praticar funções em JavaScript 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Glenda Magalhães
+- Matricula: 927171
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>
+<< ![Tela inicial](image.png)>>
 
-<<  COLOQUE A IMAGEM - TELA DE DETALHE DO PRODUTO - AQUI >>
+<< ![Tela](image-1.png) >>
 
-<<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >>
+<< ![alt text](image-2.png) >>
 
